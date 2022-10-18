@@ -3,7 +3,7 @@
 </p>
 
 
-<div align="center" style="display: flex;">
+<div style="display: flex;" align="center">
 <span>&emsp;&emsp;</span>
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=79E" />
 <span>&emsp;&emsp;</span>
