@@ -5,7 +5,9 @@
 
 <div align="center">
 <span>&emsp;&emsp;</span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=79E" /><span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=79E&layout=compact&langs_count=8" />
+<img height="170px" style="display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=79E" />
+<span>&emsp;&emsp;</span>
+<img height="170px" style="display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=79E&layout=compact&langs_count=8" />
 <span>&emsp;&emsp;</span>
 </div>
 
@@ -14,4 +16,4 @@
 <span>&emsp;&emsp;</span>
 </div>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=79E&bg_color=FFFFFF&color=165dff&line=165dff&point=165dff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=79E&bg_color=transparent&color=165dff&line=165dff&point=165dff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
