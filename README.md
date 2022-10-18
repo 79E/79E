@@ -3,11 +3,11 @@
 </p>
 
 
-<div align="center">
+<div align="center" style="display: flex;">
 <span>&emsp;&emsp;</span>
-<img height="170px" style="display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=79E" />
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=79E" />
 <span>&emsp;&emsp;</span>
-<img height="170px" style="display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=79E&layout=compact&langs_count=8" />
+<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=79E&layout=compact&langs_count=8" />
 <span>&emsp;&emsp;</span>
 </div>
 
