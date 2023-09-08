@@ -12,5 +12,3 @@
 <span>&emsp;&emsp;</span>
 <span>&emsp;&emsp;</span>
 </div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=79E&bg_color=transparent&color=165dff&line=165dff&point=165dff&area=true&hide_border=true)](https://github.com/79E)
